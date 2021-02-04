@@ -1,0 +1,24 @@
+﻿@model moment2.Models.FormModel
+@{
+    ViewData["Title"] = "Kurser";
+}
+
+<br />
+<h2>Kurser</h2>
+
+<form method="post">
+    <label asp-for="Code"></label>
+    <input asp-for)="Code" />
+    <br />
+    <label asp-for="Name"></label>
+    <input asp-for)="Name" />
+    <br />
+    <label asp-for="Url"></label>
+    <input asp-for)="Url" />
+    <br />
+    <label asp-for="Progression"></label>
+    <input asp-for)="Progression" />
+    <br />
+    <input type="submit" value="Lägg till kurs">
+
+</form>

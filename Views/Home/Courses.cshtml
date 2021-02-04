@@ -1,0 +1,14 @@
+﻿@model IEnumerable<moment2.Models.Courses>
+@{
+    ViewData["Title"] = "Kurser jag läst";
+}
+<br />
+<h1>@ViewData["Title"]</h1>
+<br />
+@foreach (var course in Model)
+{
+    <a href="@course.CourseUrl" title="Klicka för att se kursplan" target="_blank">@course.CourseName</a>
+    <br />
+}
+
+

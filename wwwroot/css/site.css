@@ -1,0 +1,34 @@
+﻿/* Footer */
+
+footer {
+    width: 100%;
+    padding-top: 6%;
+    bottom: 0;
+    text-align: center;
+    background-color: #DCCCC0;
+    padding-bottom: 5%;
+    margin-top: 5%;
+    margin-bottom: 0; 
+}
+
+/* Header */
+
+header {
+    padding-bottom: 2%; 
+}
+
+
+/* Main content */
+
+main {
+    margin-top: 6%; 
+}
+
+img {
+    max-width: 100%; 
+}
+
+
+h1 {
+    font-size: 2em; 
+}

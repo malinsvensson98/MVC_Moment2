@@ -1,0 +1,33 @@
+﻿@model moment2.Models.PostModel
+@{
+    ViewData["Title"] = "Gästbok";
+}
+
+<br />
+
+<!-- Form -->
+
+<h1>@ViewData["Title"]</h1>
+<a asp-area="" asp-controller="Home" asp-action="ReadData">Se andra inlägg i gästboken </a>
+<br />
+<br />
+<form method="post">
+    <div asp-validation-summary="ModelOnly"></div>
+    <label asp-for="Name">Namn:</label>
+    <br />
+    <input asp-for="Name" placeholder="Namn" />
+    <span asp-validation-for="Name"></span>
+    <br /><br />
+    <label asp-for="Message">Inlägg:</label>
+    <br />
+    <input asp-for="Message" placeholder="Meddelande" />
+    <span asp-validation-for="Message"></span>
+    <br /><br />
+    <input type="submit" value="Skicka" />
+</form>
+
+<br />
+<p>@ViewBag.postMessage</p>
+
+
+

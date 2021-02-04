@@ -1,0 +1,20 @@
+﻿@model IEnumerable<moment2.Models.PostModel>
+@{
+    ViewData["Title"] = "Gästbok";
+}
+<br />
+<h1>@ViewData["Title"]</h1>
+<a asp-area="" asp-controller="Home" asp-action="SendData">Tillbaka till formulär </a>
+<br />
+<br />
+<br />
+
+<!-- Foreach loop -->
+<div>
+    @foreach (var post in Model)
+    {
+        <p>Namn: @post.Name <br /> Meddelande: @post.Message</p>
+        <br />
+    }
+</div>
+

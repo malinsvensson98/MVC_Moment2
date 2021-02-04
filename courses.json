@@ -1,0 +1,63 @@
+﻿[
+  {
+    "Id": 1,
+    "CourseName": "Webbutveckling I",
+    "CourseUrl": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=22782"
+  },
+  {
+    "Id": 2,
+    "CourseName": "Introduktion till programmering med JavaScript",
+    "CourseUrl": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=23932"
+  },
+  {
+    "Id": 3,
+    "CourseName": "Digital bildbehandling för webb",
+    "CourseUrl": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=24403"
+  },
+  {
+    "Id": 4,
+    "CourseName": "Typografi och form för webb",
+    "CourseUrl": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=24399"
+  },
+  {
+    "Id": 5,
+    "CourseName": "Databaser",
+    "CourseUrl": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=21595"
+  },
+  {
+    "Id": 6,
+    "CourseName": "Webbutveckling II",
+    "CourseUrl": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=22326"
+  },
+  {
+    "Id": 7,
+    "CourseName": "JavaScript-baserad webbutveckling",
+    "CourseUrl": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=24366"
+  },
+  {
+    "Id": 8,
+    "CourseName": "Webbdesign för CMS",
+    "CourseUrl": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=22324"
+  },
+  {
+    "Id": 9,
+    "CourseName": "Webbutveckling III",
+    "CourseUrl": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=22706"
+  },
+  {
+    "Id": 10,
+    "CourseName": "Projektledning",
+    "CourseUrl": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=27003"
+  },
+  {
+    "Id": 11,
+    "CourseName": "Webbanvändbarhet",
+    "CourseUrl": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=26994"
+  },
+  {
+    "Id": 12,
+    "CourseName": "Programmering i C#.NET",
+    "CourseUrl": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=25557"
+  }
+
+]
